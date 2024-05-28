@@ -1,0 +1,17 @@
+{
+  "name": "miplugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "miplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
