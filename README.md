@@ -28,7 +28,7 @@ npm install -g plugman
 
 
 
-CREAR PROYECTO IONIC
+### CREAR PROYECTO IONIC
 
 Como ionic no te permite crear un proyecto en react usando cordova lo crearemos con angular.
 
