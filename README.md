@@ -127,12 +127,10 @@ Este proyecto tiene un botón que al presionarlo te devuelve un texto usando el 
 
 Ficheros a tener en cuenta del proyecto:
 
-	tab1.page.ts	->	Lógica de js para usar los métodos.
-
-	tab1.page.html	->	Donde se sitúa el botón y se muestra los resultados.
+-  tab1.page.ts	->	Lógica de js para usar los métodos.
+-  tab1.page.html	->	Donde se sitúa el botón y se muestra los resultados.
 
 Dentro de nuestro plugin:
 
-	.\miplugin\src\android\miplugin.java	->	Clase donde esta nuestros métodos nativos.
-
-	.\miplugin\www\miplugin.js	->	Es importante que haya tantos exports como métodos haya en el fichero de java. 
+-  .\miplugin\src\android\miplugin.java	->	Clase donde esta nuestros métodos nativos.
+-  .\miplugin\www\miplugin.js	->	Es importante que haya tantos exports como métodos haya en el fichero de java. 
